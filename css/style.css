@@ -28,12 +28,13 @@ body, html {
     color: rgb(255, 217, 0);
     border: none;
     font-size: 100px;
-    font-family: Haettenschweiler, Impact,  'Arial Narrow Bold', sans-serif;
+    font-family: Modak,Haettenschweiler, Impact,  'Arial Narrow Bold', sans-serif;
     cursor: crosshair;
     z-index: 5;
 }
 #cbtn {
-    font-family: Haettenschweiler, Impact,  'Arial Narrow Bold', sans-serif;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
     background-color: rgb(255, 217, 0);
     color: black;
     border: none;
