@@ -6,7 +6,7 @@
 }
 
 
-body,p,h1,h2,h3,h4,h5,h6 {font-family: "Roboto Mono", monospace, sans-serif;} /* change to sans-serif when readt */
+body,p,h1,h2,h3,h4,h5,h6 {font-family: "Modak", sans-serif;} /* change to sans-serif when readt */
 
 body, html {
     text-align: center;
@@ -28,7 +28,7 @@ body, html {
     color: rgb(255, 217, 0);
     border: none;
     font-size: 100px;
-    font-family: Modak,Haettenschweiler, Impact,  'Arial Narrow Bold', sans-serif;
+    font-family: "Modak", Haettenschweiler, Impact,  'Arial Narrow Bold', sans-serif;
     cursor: crosshair;
     z-index: 5;
 }
