@@ -12,7 +12,7 @@ body, html {
     text-align: center;
     padding: 0;
     margin: 0;
-    background: url(tomlin.PNG) no-repeat center center fixed; 
+    background: url(tomlin_pc.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -51,7 +51,6 @@ body, html {
 .sas {
     background-size: cover;
     background-image: url(sas.PNG);
-    background-position: center;
 }
 
 
@@ -73,4 +72,7 @@ body, html {
     }
 
 
+    body, html {
+        background: url(tomlin_mob.png) no-repeat center center fixed; 
+    }
 }
