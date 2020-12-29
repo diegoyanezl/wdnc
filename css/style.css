@@ -1,0 +1,53 @@
+:root {
+    --main-color: rgb(252, 101, 113);
+    --green-color: rgb(214, 214, 214);
+    --gray-color: rgb(194, 194, 194);
+
+}
+
+
+body,p,h1,h2,h3,h4,h5,h6 {font-family: "Roboto Mono", monospace, sans-serif;} /* change to sans-serif when readt */
+
+body, html {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    background: url(/tomlin.PNG) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#fbtn {
+    display:block;
+    width:100%;
+    height:100vh;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0;
+    color: rgb(255, 217, 0);
+    border: none;
+    font-size: 100px;
+    font-family: Haettenschweiler, Impact,  'Arial Narrow Bold', sans-serif;
+    cursor: crosshair;
+    z-index: 5;
+}
+#cbtn {
+    font-family: Haettenschweiler, Impact,  'Arial Narrow Bold', sans-serif;
+    background-color: rgb(255, 217, 0);
+    color: black;
+    border: none;
+    position: fixed;
+    left:20px;
+    bottom: 20px;
+    font-size: 30px;
+    height: AUTO;
+    width:AUTO;
+    z-index: 5;
+    cursor: pointer;
+}
+
+.sas {
+    background-size: cover;
+    background-image: url(/sas.PNG);
+}
