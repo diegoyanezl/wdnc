@@ -57,11 +57,11 @@ body, html {
 @media (max-width:1030px){
 
     #cbtn {
-        
         font-size: 40px;
-        height: AUTO;
+        height: 150px;
         width:AUTO;
         padding: 10px;
+        background-color: red;
     }
 
 
