@@ -52,8 +52,8 @@ body, html {
     background-size: cover;
     background-image: url(/css/sas.PNG);
     background-image: url(css/sas.PNG);
-    background-image: url(sas.PNG);
-    background-image: url(/sas.PNG);
+    /* background-image: url(sas.PNG); */
+    /* background-image: url(/sas.PNG); */
 }
 
 
