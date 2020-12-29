@@ -51,3 +51,17 @@ body, html {
     background-size: cover;
     background-image: url(sas.PNG);
 }
+
+
+@media (max-width:1030px){
+
+    #cbtn {
+        
+        font-size: 40px;
+        height: AUTO;
+        width:AUTO;
+        padding: 10px;
+    }
+
+
+}
